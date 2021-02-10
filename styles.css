@@ -1,6 +1,6 @@
 h1 { 
 
-    color: #c7ffd8;
+    color: #9ff5b9;
 
     text-shadow: 2px 2px 3px #000;
 
@@ -8,7 +8,7 @@ h1 {
 
 h3 {
 
-    color: #c7ffd8;
+    color: #9ff5b9;
 
     text-shadow: 2px 2px 3px #000;
 
@@ -18,7 +18,7 @@ h3 {
 
 h2 {
 
-    color: #c7ffd8;
+    color: #9ff5b9;
 
     text-shadow: 2px 2px 3px #000;
 
@@ -31,6 +31,8 @@ body{
    text-align: justify;
 
    font-family: monospace;
+
+   font-weight: 700;
 
     }
 
@@ -68,7 +70,79 @@ a:link {
 
 a:visited {
 
-    color: #780704;
+    color: #9e1e7c;
 
  }
+
+   
+
+   
+
+
+
+
+
+    
+
+    
+
+ 
+
+ 
+
+
+
+    
+
+    
+
+  
+
+
+
+   
+
+   
+
+   
+
+   
+
+    
+
+
+
+
+
+  
+
+  
+
+  
+
+  
+
+   
+
+   
+
+
+
+    
+
+ 
+
+
+
+   
+
+ 
+
+ 
+
+
+
+    
+
+ 
 
