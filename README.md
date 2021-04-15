@@ -1,5 +1,5 @@
 # Personal-Website
-Auto create by Programming Hero
+(Intially, auto create by Programming Hero)
 
 I experimented by creating a website through mobile phone. 
 
